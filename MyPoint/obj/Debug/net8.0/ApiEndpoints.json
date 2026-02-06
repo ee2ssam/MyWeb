@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "MyPoint.Components.PointServiceController",
+    "Method": "Get",
+    "RelativePath": "api/PointService",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyPoint.Components.PointServiceController",
+    "Method": "Get",
+    "RelativePath": "api/PointService/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

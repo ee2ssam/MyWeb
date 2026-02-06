@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\MyWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68270F10-0152-4180-A64C-AD6F04F3CB99}|MyFive\\MyFive.csproj|d:\\project\\myweb\\myfive\\components\\fivecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68270F10-0152-4180-A64C-AD6F04F3CB99}|MyFive\\MyFive.csproj|solutionrelative:myfive\\components\\fivecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60846F9-FE62-45DE-93DD-41B8309A8676}|MyPoint\\MyPoint.csproj|d:\\project\\myweb\\mypoint\\components\\pointcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60846F9-FE62-45DE-93DD-41B8309A8676}|MyPoint\\MyPoint.csproj|solutionrelative:mypoint\\components\\pointcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68270F10-0152-4180-A64C-AD6F04F3CB99}|MyFive\\MyFive.csproj|d:\\project\\myweb\\myfive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68270F10-0152-4180-A64C-AD6F04F3CB99}|MyFive\\MyFive.csproj|solutionrelative:myfive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\MyWeb\\MyFive\\Program.cs",
+              "RelativeDocumentMoniker": "MyFive\\Program.cs",
+              "ToolTip": "D:\\Project\\MyWeb\\MyFive\\Program.cs",
+              "RelativeToolTip": "MyFive\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T04:19:04.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PointComponent.cs",
+              "DocumentMoniker": "D:\\Project\\MyWeb\\MyPoint\\Components\\PointComponent.cs",
+              "RelativeDocumentMoniker": "MyPoint\\Components\\PointComponent.cs",
+              "ToolTip": "D:\\Project\\MyWeb\\MyPoint\\Components\\PointComponent.cs",
+              "RelativeToolTip": "MyPoint\\Components\\PointComponent.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA2wD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T04:14:41.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FiveComponent.cs",
+              "DocumentMoniker": "D:\\Project\\MyWeb\\MyFive\\Components\\FiveComponent.cs",
+              "RelativeDocumentMoniker": "MyFive\\Components\\FiveComponent.cs",
+              "ToolTip": "D:\\Project\\MyWeb\\MyFive\\Components\\FiveComponent.cs",
+              "RelativeToolTip": "MyFive\\Components\\FiveComponent.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T04:14:14.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
