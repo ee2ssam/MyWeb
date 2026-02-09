@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "MyFive.Components.FiveServiceController",
+    "Method": "Get",
+    "RelativePath": "api/FiveService",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyFive.Components.FiveServiceController",
+    "Method": "Post",
+    "RelativePath": "api/FiveService",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "five",
+        "Type": "MyFive.Components.Five",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyFive.Components.FiveServiceController",
+    "Method": "Get",
+    "RelativePath": "api/FiveService/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyFive.Components.FiveServiceController",
+    "Method": "Put",
+    "RelativePath": "api/FiveService/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "five",
+        "Type": "MyFive.Components.Five",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyFive.Components.FiveServiceController",
+    "Method": "Delete",
+    "RelativePath": "api/FiveService/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

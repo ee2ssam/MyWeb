@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyPoint")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9738db9422104c7d99972bb9d0b58cac58c6890a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4786d0a766f1430773ce4621a217d01078f360ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyPoint")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyPoint")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
