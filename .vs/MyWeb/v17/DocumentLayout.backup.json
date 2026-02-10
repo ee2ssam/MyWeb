@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "D:\\Project\\MyWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B657E02-CA41-4229-BA12-3D5DB55D3C33}|MyNet\\MyNet.csproj|d:\\project\\myweb\\mynet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B657E02-CA41-4229-BA12-3D5DB55D3C33}|MyNet\\MyNet.csproj|solutionrelative:mynet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9B657E02-CA41-4229-BA12-3D5DB55D3C33}|MyNet\\MyNet.csproj|d:\\project\\myweb\\mynet\\components\\mylevelup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B657E02-CA41-4229-BA12-3D5DB55D3C33}|MyNet\\MyNet.csproj|solutionrelative:mynet\\components\\mylevelup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B657E02-CA41-4229-BA12-3D5DB55D3C33}|MyNet\\MyNet.csproj|d:\\project\\myweb\\mynet\\components\\myuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B657E02-CA41-4229-BA12-3D5DB55D3C33}|MyNet\\MyNet.csproj|solutionrelative:mynet\\components\\myuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B657E02-CA41-4229-BA12-3D5DB55D3C33}|MyNet\\MyNet.csproj|d:\\project\\myweb\\mynet\\components\\myuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B657E02-CA41-4229-BA12-3D5DB55D3C33}|MyNet\\MyNet.csproj|solutionrelative:mynet\\components\\myuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9B657E02-CA41-4229-BA12-3D5DB55D3C33}|MyNet\\MyNet.csproj|d:\\project\\myweb\\mynet\\components\\myuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B657E02-CA41-4229-BA12-3D5DB55D3C33}|MyNet\\MyNet.csproj|solutionrelative:mynet\\components\\myuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B657E02-CA41-4229-BA12-3D5DB55D3C33}|MyNet\\MyNet.csproj|d:\\project\\myweb\\mynet\\components\\myuseradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B657E02-CA41-4229-BA12-3D5DB55D3C33}|MyNet\\MyNet.csproj|solutionrelative:mynet\\components\\myuseradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B657E02-CA41-4229-BA12-3D5DB55D3C33}|MyNet\\MyNet.csproj|d:\\project\\myweb\\mynet\\components\\myuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B657E02-CA41-4229-BA12-3D5DB55D3C33}|MyNet\\MyNet.csproj|solutionrelative:mynet\\components\\myuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9B657E02-CA41-4229-BA12-3D5DB55D3C33}|MyNet\\MyNet.csproj|d:\\project\\myweb\\mynet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9B657E02-CA41-4229-BA12-3D5DB55D3C33}|MyNet\\MyNet.csproj|solutionrelative:mynet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B657E02-CA41-4229-BA12-3D5DB55D3C33}|MyNet\\MyNet.csproj|d:\\project\\myweb\\mynet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B657E02-CA41-4229-BA12-3D5DB55D3C33}|MyNet\\MyNet.csproj|solutionrelative:mynet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B657E02-CA41-4229-BA12-3D5DB55D3C33}|MyNet\\MyNet.csproj|d:\\project\\myweb\\mynet\\components\\myuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B657E02-CA41-4229-BA12-3D5DB55D3C33}|MyNet\\MyNet.csproj|solutionrelative:mynet\\components\\myuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,39 +50,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MyLevelup.cs",
               "DocumentMoniker": "D:\\Project\\MyWeb\\MyNet\\Components\\MyLevelup.cs",
               "RelativeDocumentMoniker": "MyNet\\Components\\MyLevelup.cs",
               "ToolTip": "D:\\Project\\MyWeb\\MyNet\\Components\\MyLevelup.cs",
               "RelativeToolTip": "MyNet\\Components\\MyLevelup.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA7wBUAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAwwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T05:24:19.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MyUserInfo.cs",
               "DocumentMoniker": "D:\\Project\\MyWeb\\MyNet\\Components\\MyUserInfo.cs",
               "RelativeDocumentMoniker": "MyNet\\Components\\MyUserInfo.cs",
               "ToolTip": "D:\\Project\\MyWeb\\MyNet\\Components\\MyUserInfo.cs",
               "RelativeToolTip": "MyNet\\Components\\MyUserInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T05:11:07.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "MyUserAdd.cs",
               "DocumentMoniker": "D:\\Project\\MyWeb\\MyNet\\Components\\MyUserAdd.cs",
               "RelativeDocumentMoniker": "MyNet\\Components\\MyUserAdd.cs",
               "ToolTip": "D:\\Project\\MyWeb\\MyNet\\Components\\MyUserAdd.cs",
               "RelativeToolTip": "MyNet\\Components\\MyUserAdd.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwGUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T04:14:29.968Z",
               "EditorCaption": ""
@@ -95,27 +95,40 @@
               "RelativeDocumentMoniker": "MyNet\\Components\\MyUserLogin.cs",
               "ToolTip": "D:\\Project\\MyWeb\\MyNet\\Components\\MyUserLogin.cs",
               "RelativeToolTip": "MyNet\\Components\\MyUserLogin.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAhwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T03:52:43.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Project\\MyWeb\\MyNet\\Program.cs",
               "RelativeDocumentMoniker": "MyNet\\Program.cs",
               "ToolTip": "D:\\Project\\MyWeb\\MyNet\\Program.cs",
               "RelativeToolTip": "MyNet\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAUwBwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T02:58:04.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\MyWeb\\MyNet\\appsettings.json",
+              "RelativeDocumentMoniker": "MyNet\\appsettings.json",
+              "ToolTip": "D:\\Project\\MyWeb\\MyNet\\appsettings.json",
+              "RelativeToolTip": "MyNet\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-09T02:19:22.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MyUser.cs",
               "DocumentMoniker": "D:\\Project\\MyWeb\\MyNet\\Components\\MyUser.cs",
               "RelativeDocumentMoniker": "MyNet\\Components\\MyUser.cs",
@@ -123,21 +136,7 @@
               "RelativeToolTip": "MyNet\\Components\\MyUser.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAkwFsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T02:38:28.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Project\\MyWeb\\MyNet\\appsettings.json",
-              "RelativeDocumentMoniker": "MyNet\\appsettings.json",
-              "ToolTip": "D:\\Project\\MyWeb\\MyNet\\appsettings.json",
-              "RelativeToolTip": "MyNet\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-09T02:19:22.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T02:38:28.971Z"
             }
           ]
         }

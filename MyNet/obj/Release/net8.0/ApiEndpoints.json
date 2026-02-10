@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "MyNet.Components.UserAddServiceController",
+    "Method": "Post",
+    "RelativePath": "api/UserAddService",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userAdd",
+        "Type": "MyNet.Components.UserAdd",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyNet.Components.UserInfoServiceController",
+    "Method": "Post",
+    "RelativePath": "api/UserInfoService",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userInfo",
+        "Type": "MyNet.Components.UserInfo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyNet.Components.UserLevelupServiceController",
+    "Method": "Post",
+    "RelativePath": "api/UserLevelupService",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "levelup",
+        "Type": "MyNet.Components.Levelup",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyNet.Components.UserLoginServiceController",
+    "Method": "Post",
+    "RelativePath": "api/UserLoginService",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userLogin",
+        "Type": "MyNet.Components.UserLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyNet.Components.UserServiceController",
+    "Method": "Get",
+    "RelativePath": "api/UserService",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

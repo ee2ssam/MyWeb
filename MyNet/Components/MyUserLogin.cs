@@ -32,7 +32,7 @@ namespace MyNet.Components
 
         public UserLoginResult Login(UserLogin userLogin)
         {
-            string sql = "usp_UserLogin @UserId";
+            string sql = "usp_Login @UserId";
             var result = _db.Query<int>(sql, userLogin).Single();
 
             UserLoginResult loginResult = new UserLoginResult
